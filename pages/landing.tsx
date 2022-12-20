@@ -5,8 +5,7 @@ const Landing : NextPage =()=>{
     <div className=
     {styles.bodyBg}>
     <h1 className={styles.heading}>HONEST REVIEWS</h1>
-    <h4 className={styles.subtext}>Review your favourite movies on chain and earn exciting award.
-    <br />
+    <h4 className={styles.subtext}>Review your favourite movies on chain and earn exciti
     Lets Get Started !!!!</h4>
  <button className={styles.btn}>Review!!</button>
     </div>
